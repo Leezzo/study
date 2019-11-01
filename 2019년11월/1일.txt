@@ -1,0 +1,36 @@
+git
+
+git init
+git remote
+git add <file>
+git commit
+git branch
+git revert
+git cherry-pick
+git checkout
+git reset
+git merge
+git rebase
+git push
+gut pull
+
+사용
+**************************
+
+React
+tic-tac-toe 실습
+
+불변성 유지 장점
+1. 복잡한 특징을 단순하게 만듦
+    애플리케이션에서 일반적으로 요구되는 특정 행동 이전으로 되돌아 갈 수 있음
+2. 변화를 감지함
+    참조하고 있는 불변 객체가 이전 객체와 다르면 변한것
+3. React에서 다시 렌더링하는 시기를 결정함
+    순수 컴포넌트 만드는 데 도움을 줌.
+    변하지 않는 데이터는 변경이 이루어졌는지 쉽게 판단할 수 있으며
+    이를 바탕으로 컴포넌트가 다시 렌더링할 지를 결정할 수 있음
+
+
+
+
+
